@@ -11,3 +11,9 @@
 *.lai
 *.la
 *.a
+
+# build folder
+build
+
+# OS X Finder files
+*.DS_Store
